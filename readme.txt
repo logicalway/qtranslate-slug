@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GYS2L
 Tags: qtranslate, slug, multilanguage, widget
 Requires at least: 4.0
 Tested up to: 4.5
-Stable tag: 1.1.18
+Stable tag: 1.1.19
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,9 +14,7 @@ Adds support for permalink translations to QTranslate-X
 
 [Qtranslate-X](http://wordpress.org/plugins/qtranslate-x/) is a nice plugin for Multilingual Websites. **Qtranslate Slug** is an addon to QTranslate, which adds support for permalinks translations.
 
-
-
-
+1.1.19 remove error constructors 
 
 1.1.17 fixes a dangerous Security Exploit. Please update right now!
 
