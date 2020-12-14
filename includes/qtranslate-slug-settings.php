@@ -573,7 +573,7 @@ function qts_show_settings_page() {
 			// rewrite rules
 			flush_rewrite_rules();
 			?>
-	  <?php $css_path = plugin_dir_url(dirname(__FILE__)).'assets/css/qts-default.css';
+	  <?php $css_path = dirname(__FILE__).'/../assets/css/qts-default.css'; // plugin_dir_url(dirname(__FILE__)).'assets/css/qts-default.css'
             $file_styles = file_get_contents($css_path);
             
              
